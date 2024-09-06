@@ -7,7 +7,7 @@ sections:
       text: お客様との関係が深まる新たなビジネスチャンスのご提案
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Subtitle goes hereあ
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
