@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: あUnblock your team boost your time to production
+      text: お客様との関係が深まる新たなビジネスチャンスのご提案
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
